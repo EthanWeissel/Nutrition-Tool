@@ -1,0 +1,44 @@
+* 7603b1e 2024-09-24 by [JaydenAM] | made basic GUI and basic code so it can run. also uploading dataset. (HEAD -> dev)
+* 6ff24d8 2024-09-08 by [JaydenAM] | added names of images below images, hopefully this helps. (origin/main, origin/HEAD, main)
+* 443063f 2024-09-08 by [JaydenAM] | tried to fix images when converting to pdf.
+* 950e9f6 2024-09-08 by [JaydenAM] | final commit before submission.
+* 2aac3cd 2024-09-08 by [JaydenAM] | removed images directory.
+* d37d539 2024-09-08 by [JaydenAM] | moved images back to main directory and removed example images.
+* 0c922d7 2024-09-08 by [JaydenAM] | added team member contributions.
+* 008b1ae 2024-09-05 by [EthanWeissel] | Finalising Ethan's Part and adding Use case Diagram
+*   baa7d39 2024-09-05 by [EthanWeissel] | -mMerge branch 'EthanWeissel'
+|\  
+| *   9f2857a 2024-09-05 by [EthanWeissel] | -mMerge branch 'main' of https://github.com/EthanWeissel/Milestone1_Group85 into EthanWeissel
+| |\  
+* | \   472feda 2024-09-05 by [EthanWeissel] | -m Merge branch 'main' of https://github.com/EthanWeissel/Milestone1_Group85
+|\ \ \  
+| | |/  
+| |/|   
+| * | 553970c 2024-09-04 by [JaydenAM] | Added contributions to project plan and added missing image to software design.
+| * | 92c872c 2024-09-04 by [JaydenAM] | Moved images into a new folder since directory was getting full.
+| * | 71b7ce9 2024-09-04 by [JaydenAM] | Changed prior mentions of how nutrition breakdown would work to reflect new idea. Added mentioning of additional feature, and changed layouts for nutrition breakdown section to include a replacement of the filtering section when swapping screens.
+| * | e53070f 2024-09-04 by [JaydenAM] | Idea
+| * | 9c9119c 2024-09-04 by [JaydenAM] | Added Structural design and justifications for the structure.
+| * | 7f50594 2024-09-03 by [JaydenAM] | Added wireframe mockups, as well as justifications for mockups. Decided to go with having the graphs be on the program, than as a popup. Will ammend prior sections that refered to these functions as acting in a popup fashion. Also uploading wireframes.
+* | |   742edd9 2024-09-05 by [EthanWeissel] | All Ethan's Parts
+|\ \ \  
+| | |/  
+| |/|   
+| * | a718587 2024-09-03 by [EthanWeissel] | Added project scope
+| * | fb3c094 2024-09-03 by [EthanWeissel] | finished 1.1 & 1.2
+* | | 2a1cc5e 2024-09-05 by [EthanWeissel] | This is all my partparts of the assignment The project plan should now be complete
+| |/  
+|/|   
+* | ff0b8e3 2024-09-03 by [EthanWeissel] | trying to upload my parts
+* | ef98db9 2024-09-02 by [JaydenAM] | Added detailed design flowchart, also uploading the image as well. If you're adding an image to the doc make sure you upload it.
+* | 9cc03b8 2024-09-02 by [JaydenAM] | Added some data structure to 3.2.2. Could only think of a few for new, looks like this would mainly be things like arrays, list, dictionaries, so will try think a bit more about what else would be stored in this way.
+* | 8fd9742 2024-09-02 by [JaydenAM] | Re-added Atharav to project plan, seems when I reuploaded docuemnts using force push it removed prior document upload.
+* | 03fe923 2024-09-02 by [JaydenAM] | Reuploading Software design document as last one was overwritten. Please make sure you are pulling the new document before commiting changes. Also added student numbers and names.
+* | f3f7cc0 2024-09-02 by [JaydenAM] | Updated Software Design Document with details on required software functions under SDD 3.2.1 Functions. Additional feature added at later date.
+* | cc76420 2024-09-02 by [JaydenAM] | Added details to both documents. Added Software design flowchart to Software Design Document.
+* | d6ab42a 2024-08-31 by [Atharav2705] | Add files via upload
+|/  
+* 4ad26f4 2024-08-27 by [EthanWeissel] | Added project objectives (master)
+* 01abf84 2024-08-27 by [EthanWeissel] | Add files via upload
+* 4e57dd4 2024-08-27 by [EthanWeissel] | Update .gitignore
+* 43fa938 2024-08-27 by [EthanWeissel] | Initial commit

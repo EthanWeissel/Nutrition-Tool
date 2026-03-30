@@ -1,0 +1,4 @@
+# Milestone1_Group85
+
+
+Jayden: so for the additional feature, it seems we're going with comparing two food items. The best way I can see this being done is through the usage of a bar graph. SO for the program there will be search results, then there will be a button to let the user swap to the nutrition breakdown. on this screen the user can select a single food and then press one of two buttons, one to generate a pie chart, and one to generate a bar graph. IN addition to this, there could be a second dropdown box, and below this one is a button that says compare, and when the user presses this button, it will generate a bar graph with both sets of data.
